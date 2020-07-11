@@ -14,3 +14,4 @@ nav:
   - Getting Started          : getting-started.md
   - Available Features       : available-features.md
   - Differences with Clojure : differences-with-clojure.md
+  - Erlang Interop           : erlang-interop.md
